@@ -36,8 +36,8 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- The model architecture is based on the work of [insert reference or link to relevant research paper].
-- Special thanks to [insert names or organizations] for their contributions or support.
+- The model architecture is based on the work of work record holder Mr. Vimal Daga.
+- Special thanks to [Sameer shrinath] for their contributions or support.
 
 ## Contact
-For any inquiries or support, feel free to contact [your-email@example.com].
+For any inquiries or support, feel free to contact [Sameershrinath@gmail.com].
